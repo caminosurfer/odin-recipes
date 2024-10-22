@@ -1,0 +1,3 @@
+This project is all about getting the fundamentals of HTML right. 
+The result will be ugly as but in the future we might reiterate over
+it to add some CSS love to it...
