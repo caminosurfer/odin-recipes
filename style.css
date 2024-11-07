@@ -1,0 +1,39 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: auto;
+}
+
+.recipe-head {
+    background-color: rgb(255, 225, 225);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    padding: 1em;
+    text-align: center;
+}
+
+.recipe-content {
+    background: linear-gradient(to bottom, rgb(255, 225, 225), white);
+    padding: 3em;
+}
+
+.recipe-list {
+    background-color: inherit;
+    color: red;
+    margin: 1em 0;
+    
+}
+
+.recipe {
+    display: inline-block; 
+    margin: 2em;
+    border: 0.3em solid saddlebrown;
+    padding: 1em;
+}
+
